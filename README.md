@@ -1,4 +1,4 @@
-# Bloatware-remover-for-Realme-ui
+# Bloatware-remover-for-Realme-UI
 This tool is based on command prompt which helps you to remove bloatware from realme ui 1.0 - 4.0 also you can remove google applications as well 
 
 # Supported Realme ui Apps
