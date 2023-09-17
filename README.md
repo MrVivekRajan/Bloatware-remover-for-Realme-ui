@@ -14,4 +14,4 @@ Chrome, Gmail, Google-Photos, Google-Calendar, Map, Keep-Notes, Youtube, Google-
 ![Screenshot-3](https://github.com/developer-vivek/Bloatware-remover-for-Realme-ui/assets/85994908/2c53dd0f-1705-4406-b89f-e35c35938ed9)
 
 # WorkFlow
-https://github.com/developer-vivek/Bloatware-remover-for-Realme-ui/assets/85994908/6f90a81f-355a-4426-8562-52970982f2c0
+https://github.com/developer-vivek/Bloatware-remover-for-Realme-ui/assets/85994908/8ee686fa-06ef-468a-ae1d-c298c75bf467
