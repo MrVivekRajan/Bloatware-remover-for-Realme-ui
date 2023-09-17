@@ -10,7 +10,7 @@ Browser, Compass, Games, GameSpace, Game-Center, Phone-Manager, FinShell-Pay, Cl
 
 # Supported Google Apps
 Chrome, Gmail, Google-Photos, Google-Calendar, Map, Keep-Notes, Youtube, Google-Pay, Google-Files, 
-# Preview -3 
+# Preview - 3 
 ![3](https://github.com/developer-vivek/Bloatware-remover-for-Realme-ui/assets/85994908/2f1b66ad-d5a5-4015-9a24-3bddc3e8286f)
 
 # WorkFlow
